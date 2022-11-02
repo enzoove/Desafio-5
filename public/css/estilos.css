@@ -1,0 +1,12 @@
+/*estilo para todos los tags li*/
+li {
+    width: 500px;
+    margin: 4px;
+    padding: 4px;
+    list-style: none
+  }
+  
+  /*estilos personalizados*/
+  .midlaner {background-color: #ebe5abf1}
+  .toplaner {background-color: #ffea00}
+  .err {background-color:red}
