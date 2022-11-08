@@ -1,0 +1,21 @@
+<h1>Lista de Productos</h1>
+<table style="border: 2px solid red;">
+    <thead>
+        <tr>
+            <th style="border: 2px solid red;">Producto</th>
+            <th style="border: 2px solid red;">Precio</th>
+            <th style="border: 2px solid red;">URL Foto</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each Products}}
+            <tr>
+            <td style="border: 2px solid red;"> {{this.title}} </td>
+            <td style="border: 2px solid red;"> ${{this.price}} </td>
+            <td style="border: 2px solid red;"> <img src="{{this.thumbnail}}" width="20"> </td>
+        </tr>
+
+        {{/each}}
+    </tbody>
+
+</table>

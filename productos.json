@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Pochoclos",
+		"price": 800,
+		"thumbnail": "https://cdn.icon-icons.com/icons2/810/PNG/512/cinema_popcorn_icon-icons.com_66128.png",
+		"id": 1
+	},
+	{
+		"title": "Bebida Grande",
+		"price": 720,
+		"thumbnail": "https://cdn.icon-icons.com/icons2/1555/PNG/512/fast-food-icons-freecoke-soda_107427.png",
+		"id": 2
+	},
+	{
+		"title": "Nachos",
+		"price": 650,
+		"thumbnail": "https://cdn.icon-icons.com/icons2/3276/PNG/512/nachos_mexican_food_food_appetizer_snack_icon_207980.png",
+		"id": 3
+	}
+]

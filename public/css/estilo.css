@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color:white;
+}
+table{
+    border: 2px solid white;
+    background-color: black;
+}
+tbody{
+    border: 2px solid white;
+    background-color: black;
+}
+thead{
+    border: 2px solid white;
+    background-color: black;
+}
